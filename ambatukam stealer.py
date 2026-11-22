@@ -11,7 +11,7 @@ import psutil
 # Required external libs: psutil, mss, requests.
 
 # Config
-NTFY_SH_THEME_URL = "https://ntfy.sh/cKm1aDvKycbenjJN"
+NTFY_SH_THEME_URL = "https://ntfy.sh/qazaq"
 
 # Do not touch
 FILE_SHARE_READ= 0x00000001
